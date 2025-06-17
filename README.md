@@ -34,7 +34,3 @@ This project focuses on predicting ride fares using real-world ride data by appl
 
 ---
 
-## Getting Started
-
---> Clone the repository  
-```bash
